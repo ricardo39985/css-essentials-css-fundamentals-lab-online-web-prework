@@ -29,4 +29,6 @@ nav {
 
 #details{
   float: left;
+  width:600px;
+  height:190px;
 }
