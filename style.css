@@ -16,10 +16,12 @@ nav a{
 nav {
   text-align: center;
 }
-#featured-property figure{
+
+#featured-property figure {
   text-align: center;
 }
-#featured-property > p {
+
+#featured-property p {
   align-items: center;
   padding-left: 5;
   padding-right: 5
