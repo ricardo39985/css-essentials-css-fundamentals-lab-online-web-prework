@@ -27,11 +27,6 @@ nav {
   padding-right: 500px;
 }
 
-#details{
-  width: 80%;
-  margin: 0 auto;
-  padding: 20px;
-}
 #details div {
   float: left;
   background color: red;
