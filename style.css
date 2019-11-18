@@ -19,5 +19,8 @@ nav {
 
 #featured-property figure {
   text-align: center;
-  background-color: grey;
+}
+
+#featured-property p {
+  text-align: center;
 }
