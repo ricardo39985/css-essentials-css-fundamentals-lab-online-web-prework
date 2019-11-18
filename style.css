@@ -9,7 +9,7 @@ h1 {
   padding: 3px;
   text-align: center;
 }
-nav {
+nav a{
   text-align: center;
    background-color: green;
 }
