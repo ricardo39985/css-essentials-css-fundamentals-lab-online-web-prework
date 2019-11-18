@@ -32,4 +32,5 @@ nav {
   padding-right: 500px;
   ext-align: center;
   float: left;
+  clear: both;
 }
