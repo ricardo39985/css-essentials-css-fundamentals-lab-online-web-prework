@@ -19,3 +19,6 @@ nav {
 #featured-property figure{
   text-align: center;
 }
+#featured-property img{
+  margin: auto;
+}
