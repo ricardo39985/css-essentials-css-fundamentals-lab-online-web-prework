@@ -29,6 +29,7 @@ nav {
 
 #details{
   float: left;
-  width:600px;
-  height:190px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
 }
