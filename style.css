@@ -28,8 +28,10 @@ nav {
 }
 
 #details{
-  float: left;
   width: 80%;
   margin: 0 auto;
   padding: 20px;
+}
+h3 {
+  float: left;
 }
