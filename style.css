@@ -10,6 +10,9 @@ h1 {
   text-align: center;
 }
 nav a{
-  text-align: center;
+
    background-color: green;
+}
+nav {
+  text-align: center;
 }
