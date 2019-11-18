@@ -31,6 +31,5 @@ nav {
   padding-left: 500px;
   padding-right: 500px;
   ext-align: center;
-  float: left;
-  clear: both;
+  float: right;
 }
