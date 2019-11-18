@@ -14,16 +14,11 @@ nav a{
    background-color: grey;
 }
 nav {
-  text-align: center;
+
 }
 
 #featured-property figure {
   text-align: center;
 }
 
-#details {
-  align-items: center;
-  padding-left: 5;
-  padding-right: 5
-  background-color: grey;
 }
